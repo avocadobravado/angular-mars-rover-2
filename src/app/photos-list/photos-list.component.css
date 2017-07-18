@@ -1,0 +1,12 @@
+img {
+  height: 500px;
+  width: 500px;
+  padding: 1em;
+  border: 5px solid brown;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.photo {
+  object-fit: cover;
+}

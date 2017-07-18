@@ -1,0 +1,20 @@
+{
+  "name": "angular-mars-rover2",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Rose Sponseller <rosesponseller@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/avocadobravado/angular-mars-rover-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
